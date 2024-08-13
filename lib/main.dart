@@ -15,35 +15,35 @@ class MyApp extends StatelessWidget {
         "dp":
             "https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "bg":
-            "https://images.pexels.com/photos/5674795/pexels-photo-5674795.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/4927361/pexels-photo-4927361.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       },
       {
         "name": "Alice",
         "dp":
-            "https://images.pexels.com/photos/1704126/pexels-photo-1704126.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/1406506/pexels-photo-1406506.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "bg":
-            "https://images.pexels.com/photos/3630663/pexels-photo-3630663.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/4284318/pexels-photo-4284318.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       },
       {
         "name": "Bob",
         "dp":
             "https://images.pexels.com/photos/1078947/pexels-photo-1078947.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "bg":
-            "https://images.pexels.com/photos/4056686/pexels-photo-4056686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/4298629/pexels-photo-4298629.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       },
       {
         "name": "Carol",
         "dp":
             "https://images.pexels.com/photos/1580287/pexels-photo-1580287.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "bg":
-            "https://images.pexels.com/photos/2461205/pexels-photo-2461205.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/14560189/pexels-photo-14560189.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       },
       {
         "name": "David",
         "dp":
-            "https://images.pexels.com/photos/1591277/pexels-photo-1591277.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/10588206/pexels-photo-10588206.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "bg":
-            "https://images.pexels.com/photos/3794572/pexels-photo-3794572.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/9545921/pexels-photo-9545921.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       },
     ];
 
