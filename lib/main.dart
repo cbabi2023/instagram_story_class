@@ -71,13 +71,13 @@ class MyApp extends StatelessWidget {
                       const Icon(
                         Icons.favorite_outline,
                         color: Colors.white,
-                        size: 30,
+                        size: 35,
                       ),
                       const SizedBox(width: 15),
                       const Icon(
                         Icons.send_outlined,
                         color: Colors.white,
-                        size: 30,
+                        size: 35,
                       ),
                     ],
                   )
